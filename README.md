@@ -47,28 +47,28 @@ Please use the folloing link to see a quick walk through from Insomnia on how th
 
 Here are some screenshots of the get requests:
 
-![screenshot 1](img\get-request.png)<br>
-![screenshot 2](img\get-thought-request.png)<br>
+![screenshot 1](img/get-request.png)<br>
+![screenshot 2](img/get-thought-request.png)<br>
 
 Here are some screenshots of the post requests:
 
-![screenshot 3](img\post-user-request.png)<br>
-![screenshot 4](img\post-thought-request.png)<br>
+![screenshot 3](img/post-user-request.png)<br>
+![screenshot 4](img/post-thought-request.png)<br>
 
 Here are some screenshots of the put requests:
 
-![screenshot 5](img\put-user-request.png)<br>
-![screenshot 6](img\put-thought-request.png)<br>
+![screenshot 5](img/put-user-request.png)<br>
+![screenshot 6](img/put-thought-request.png)<br>
 
 Here are some sceenshots of the delete requests:
 
-![screenshot 7](img\delete-user-request.png)<br>
-![screenshot 8](img\delete-thought-request.png)<br>
+![screenshot 7](img/delete-user-request.png)<br>
+![screenshot 8](img/delete-thought-request.png)<br>
 
 Here are some screenshots of the friend post and delete:
 
-![screenshot 9](img\post-friend-request.png)<br>
-![screenshot 10](img\delete-friend-request.png)<br>
+![screenshot 9](img/post-friend-request.png)<br>
+![screenshot 10](img/delete-friend-request.png)<br>
 
 ## Contributing
 
